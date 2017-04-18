@@ -1,0 +1,17 @@
+MAIL FROM: CEO@security.microsoft.com
+RCPT TO: turbo407@gmail.com
+RCPT TO: kuku@gmail.com
+
+DATA
+Date: Sun, 15 May 2016 16:00:29 -0700
+From: Security CEO <CEO@security.microsoft.com>
+Subject: Involvement in organized hack
+To: kuku@gmail.com
+
+Dear Ms. Kuku KUkukuku
+
+We are not happy to inform you that Your relative Bum Bum has hacked one of our bank accounts and flew to Hawaii with our money in his Bitcoin purse. Unfortunately, we can't find him. Mr. Bum might try to transfer money to you, so, please, instantly inform us if you have any higher ammount of money transfered. By doing so, we ensure you to get a lifetime job at Microsoft Vilnius.
+
+Sincerely,
+Microsoft Security Department
+.
